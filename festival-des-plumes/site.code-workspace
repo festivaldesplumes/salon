@@ -1,8 +1,16 @@
 {
 	"folders": [
 		{
-			"path": ".."
+			"path": "node_modules"
+		},
+		{
+			"path": "public"
+		},
+		{
+			"path": "src"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "public"
+	}
 }
